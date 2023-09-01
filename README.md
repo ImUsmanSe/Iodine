@@ -10,4 +10,4 @@ Go to the root of the project and run
 `npx playwright test`
 
 ## Test suite details
-Feature tests are written using Playwright in typescript.
+Feature tests are written using Playwright.
